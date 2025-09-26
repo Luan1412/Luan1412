@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DA_SUA_IMAGEM_DE_BANNER_AQUI" alt="Banner do Perfil">
+  <img src="https://github.com/Luan1412/Luan1412/blob/main/banner.png?raw=true" alt="Banner do Perfil">
 </p>
 
 <p align="center">
